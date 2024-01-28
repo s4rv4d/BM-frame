@@ -1,0 +1,26 @@
+{
+  "name": "vercel-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.8.10",
+    "@babel/preset-react": "^7.23.3",
+    "@syndicateio/syndicate-node": "^0.0.449",
+    "@vercel/node": "^3.0.17",
+    "graphql": "^16.8.1",
+    "next": "^14.1.0",
+    "puppeteer": "^21.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "satori": "^0.10.11",
+    "satori-html": "^0.3.2",
+    "sharp": "^0.33.2"
+  }
+}
